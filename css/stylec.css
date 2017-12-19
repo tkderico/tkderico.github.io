@@ -36,6 +36,20 @@ nav ul {
   padding-left: 0;
 }
 
+section h2 {
+  font-family: "Press Start 2P", cursive;
+  letter-spacing: 6px;
+  color: orange;
+}
+
+img.resize {
+  max-width:  60%;
+  max-height:  60%;
+  left: 370px;
+  bottom: : 50px;
+position: relative;
+}
+
 nav li {
   display: inline-block;
   margin-right: 20px;
