@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Montserrat|Press+Start+2P');
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: url(gaming-pattern);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
